@@ -18,10 +18,13 @@ This is a compilation that I have made with the purpose of being able to have ce
 ### Developers Blogs
 * [Takipi Blog](https://blog.takipi.com/category/code/java/)
 * [Baeldung](https://www.baeldung.com/)
+* [Michael Simon's Blog](https://info.michael-simons.eu/)
 * [A Java Geek](https://blog.frankel.ch/)
 * [Vogella](http://www.vogella.com/tutorials/JavaCollections/article.html)
 * [Mkyong](http://www.mkyong.com/)
+* [HowToDoInJava](https://howtodoinjava.com/)
 * [Thought on Java](https://www.thoughts-on-java.org/)
+* [Vanilla # JS](http://vanillajava.blogspot.com/)
 * [Vlad Mihalcea](https://vladmihalcea.com/)
 * [Antonio's Blog](https://antoniogoncalves.org/)
 * [Jenkov Tutorials](http://tutorials.jenkov.com/)
@@ -30,3 +33,4 @@ This is a compilation that I have made with the purpose of being able to have ce
 * [ProgramGreek](https://www.programcreek.com/)
 * [nurkiewicz](https://www.nurkiewicz.com/)
 * [CodeFX](http://blog.codefx.org/)
+* [Adam Bien's Blog](http://www.adam-bien.com/roller/abien/)
