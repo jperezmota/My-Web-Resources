@@ -3,7 +3,7 @@
 This is a compilation that I have made with the purpose of being able to have centralized and share with all of you my reading list of websites, blogs and articles.. I hope you find it useful.
 
 ##Burnout Programming
-* [Ryan Yurkanin](How to get back on track after you’ve burned out programming)
+* [Ryan Yurkanin - How to get back on track after you’ve burned out programming](https://medium.freecodecamp.org/how-to-get-back-on-track-after-youve-burned-out-programming-a04ccafeefd6)
 
 ## Java
 ### Websites
