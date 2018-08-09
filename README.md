@@ -6,6 +6,7 @@ This is a compilation that I have made with the purpose of being able to have ce
 ## Java
 ### Websites
 * [Java Code Geeks](https://www.javacodegeeks.com/)
+* [Java Design Pattern](http://java-design-patterns.com/)
 * [InfoQ - Java](https://www.infoq.com/java/)
 * [DZone - Java](https://dzone.com/java-jdk-development-tutorials-tools-news)
 * [TheServerSide](https://www.theserverside.com/)
