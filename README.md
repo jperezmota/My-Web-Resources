@@ -1,6 +1,6 @@
 # My-Reading-List
 
-This is a compilation that I have made with the purpose of being able to have centralized and share with all of you my reading list of websites, blogs and articles.. I hope you find it useful.
+This is a compilation that I have made with the purpose of being able to have centralized and share with all of you my reading list about articles of some subjects that I liked and I consider useful that others also read them, as well as books, websites and blogs. I hope you find it useful.
 
 ## Burnout Programming
 * [Ryan Yurkanin - How to get back on track after you’ve burned out programming](https://medium.freecodecamp.org/how-to-get-back-on-track-after-youve-burned-out-programming-a04ccafeefd6)
