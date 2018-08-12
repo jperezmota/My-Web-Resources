@@ -43,6 +43,12 @@ This is a compilation that I have made with the purpose of being able to have ce
 * [CodeFX](http://blog.codefx.org/)
 * [Adam Bien's Blog](http://www.adam-bien.com/roller/abien/)
 
+### Articles
+* [JVM performance optimization - Serie](https://www.javaworld.com/article/2078623/core-java/core-java-jvm-performance-optimization-part-1-a-jvm-technology-primer.html)
+* [JDK](https://www.javaworld.com/article/3296360/core-java/what-is-the-jdk-introduction-to-the-java-development-kit.html)
+* [JVM](https://www.javaworld.com/article/3272244/core-java/what-is-the-jvm-introducing-the-java-virtual-machine.html)
+* [The Future of the Java Platform and the JDK: Who is in Charge? - Mark Reinhold](https://www.youtube.com/watch?v=HpbchS5kmio)
+
 ## Angular
 ### Websites
 * [Oficial Angular](https://angular.io/guide/quickstart)
