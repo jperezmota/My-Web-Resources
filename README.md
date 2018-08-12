@@ -42,3 +42,7 @@ This is a compilation that I have made with the purpose of being able to have ce
 * [nurkiewicz](https://www.nurkiewicz.com/)
 * [CodeFX](http://blog.codefx.org/)
 * [Adam Bien's Blog](http://www.adam-bien.com/roller/abien/)
+
+## Angular
+###Websites
+* [Oficial Angular](https://angular.io/guide/quickstart)
