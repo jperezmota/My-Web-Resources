@@ -6,8 +6,10 @@ This is a compilation that I have made with the purpose of being able to have ce
 * [How to get back on track after you’ve burned out programming - Ryan Yurkanin](https://medium.freecodecamp.org/how-to-get-back-on-track-after-youve-burned-out-programming-a04ccafeefd6)
 * [Have you filled a developer bucket today? - Flavio Copes ](https://medium.freecodecamp.org/have-you-filled-a-developer-bucket-today-93acdf4b4356)
 
-## Development/Design
+## Speaks
+* [Scott Hanselman - "It's not what you read, it's what you ignore"](https://www.youtube.com/watch?v=IWPgUn8tL8s&t=435s)
 
+## Development/Design
 * [FreeCodeCamp - Medium](https://medium.freecodecamp.org/)
 
 ## Java
