@@ -1,4 +1,4 @@
-# My Reading List
+# Reading List
 
 
 <p align="center">
@@ -20,16 +20,17 @@ This is a compilation that I have made with the purpose to centralize some web r
 * [FreeCodeCamp - Medium](https://medium.freecodecamp.org/)
 
 ## Java
-### Websites
-* [JavaWorld](https://www.javaworld.com/)
-* [Java Code Geeks](https://www.javacodegeeks.com/)
-* [Java Design Pattern](http://java-design-patterns.com/)
 
 ### Articles
 * [JVM performance optimization serie- By Eva Andreasson](https://www.javaworld.com/article/2078623/core-java/core-java-jvm-performance-optimization-part-1-a-jvm-technology-primer.html)
 * [What is the JDK? - By Mattew Tyson](https://www.javaworld.com/article/3296360/core-java/what-is-the-jdk-introduction-to-the-java-development-kit.html)
 * [What is the JVM? - By Mattew Tyson](https://www.javaworld.com/article/3272244/core-java/what-is-the-jvm-introducing-the-java-virtual-machine.html)
 * [The Future of the Java Platform and the JDK: Who is in Charge? - By Mark Reinhold](https://www.youtube.com/watch?v=HpbchS5kmio)
+
+### Websites
+* [JavaWorld](https://www.javaworld.com/)
+* [Java Code Geeks](https://www.javacodegeeks.com/)
+* [Java Design Pattern](http://java-design-patterns.com/)
 
 ## Angular
 ### Websites
