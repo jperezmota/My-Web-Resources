@@ -1,13 +1,11 @@
-# Reading List
+# Growth Resources
 
+I'm passionate about reading, watching or participating in things that allow me to grow as a professional and as a person and I like to share that growth with others. Here is a compilation of some resources that for me have been of interest and I would like to share with you. Hope you find them useful.
 
 <p align="center">
-    <img src="https://i.postimg.cc/63Y9kxTn/article.png" height="200" width="200" />             
+    <img src="https://i.postimg.cc/cCSgd3JK/294.jpg" height="400" width="400" />
 </p>
 
-
-
-This is a compilation that I have made with the purpose to centralize some web resources that I found useful and want to share them with you.
 
 ## Articles
 * [How to get back on track after you’ve burned out programming - By Ryan Yurkanin](https://medium.freecodecamp.org/how-to-get-back-on-track-after-youve-burned-out-programming-a04ccafeefd6)
@@ -15,24 +13,3 @@ This is a compilation that I have made with the purpose to centralize some web r
 
 ## Speaks
 * [It's not what you read, it's what you ignore - By Scott Hanselman](https://www.youtube.com/watch?v=IWPgUn8tL8s&t=435s)
-
-## Development/Design
-* [FreeCodeCamp - Medium](https://medium.freecodecamp.org/)
-
-## Java
-
-### Articles
-* [JVM performance optimization serie- By Eva Andreasson](https://www.javaworld.com/article/2078623/core-java/core-java-jvm-performance-optimization-part-1-a-jvm-technology-primer.html)
-* [What is the JDK? - By Mattew Tyson](https://www.javaworld.com/article/3296360/core-java/what-is-the-jdk-introduction-to-the-java-development-kit.html)
-* [What is the JVM? - By Mattew Tyson](https://www.javaworld.com/article/3272244/core-java/what-is-the-jvm-introducing-the-java-virtual-machine.html)
-* [The Future of the Java Platform and the JDK: Who is in Charge? - By Mark Reinhold](https://www.youtube.com/watch?v=HpbchS5kmio)
-
-### Websites
-* [JavaWorld](https://www.javaworld.com/)
-* [Java Code Geeks](https://www.javacodegeeks.com/)
-* [Java Design Pattern](http://java-design-patterns.com/)
-
-## Angular
-### Websites
-* [Change Detection in Angular - By Victor Savkin](https://vsavkin.com/change-detection-in-angular-2-4f216b855d4c)
-* [Angular 2, 4 — Visualizing Change Detection (Default vs OnPush) - By Gupta Garuda](https://hackernoon.com/angular-2-4-visualizing-change-detection-default-vs-onpush-3d7ed1f69f8e)
