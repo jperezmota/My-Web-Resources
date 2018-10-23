@@ -1,6 +1,6 @@
 # Growth Resources
 
-I'm passionate about reading, watching or participating in things that allow me to grow as a professional and as a person and I like to share that growth with others. Here is a compilation of some resources that have been of interest to me and I would like to share with you. Hope you find them useful.
+I'm passionate about reading, watching or participating in things that allow me to grow as a professional and as a person and I like to share that growth with others. Here is a compilation of some resources that have been of interest to me and I would like to share them with you. Hope you find them useful.
 
 <p align="center">
     <img src="https://i.postimg.cc/cCSgd3JK/294.jpg" height="300" width="350" />
